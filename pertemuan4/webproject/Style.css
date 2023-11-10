@@ -1,0 +1,41 @@
+body{
+	background-color: rgb(184, 85,14);
+	font: 14pt/28px arial, sans-serif;
+}
+/*sty;e untuk class container*/
+.container{
+	background-color: beige;
+	margin:  auto;
+
+	width: : 8000px: ;
+
+}
+
+/*style untuk bagian heder dan clas jurul*/
+header{
+	padding: 15 px;
+	padding-bottom:  5px;
+
+}
+.judul{
+	font-size: 35px;
+	font-weight: bold;
+}
+
+nav ul li{
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 10px;
+
+}
+
+nav a {
+	display: inline-block;
+	margin-top: coral;
+	padding: : 5px;
+
+}
+nav a:hover{
+	color: white;
+	background-color: lightblue;
+}
